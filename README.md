@@ -1,12 +1,9 @@
-# Hexal-Example
-First HTML &amp; CSS coding task for RS School.
+# Hexal
+> First HTML &amp; CSS coding task for RS School.
 
-## GitHub Pages:
+### GitHub Pages:
 
 [Watch 'Hexal' on GitHub Pages!](https://ereburg.github.io/Hexal-Example/ "Hexal Example")
-
-
-
 
 ### Example of the layout:
 
